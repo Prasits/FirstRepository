@@ -24,7 +24,7 @@ libpeerconnection.log/
 npm-debug.log
 testem.log
 typings/
-Data/*
+
 # e2e
 e2e/*.js
 e2e/*.map
